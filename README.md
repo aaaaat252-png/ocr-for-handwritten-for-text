@@ -1,0 +1,1 @@
+# ocr-for-handwritten-for-text
